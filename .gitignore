@@ -1,3 +1,6 @@
+# All the files and directory in the "node_modules" directory will be ignored
+node_modules/
+
 # Ignores all files starting with the letter "z"
 z*
 
